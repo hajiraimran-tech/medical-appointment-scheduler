@@ -16,7 +16,7 @@ A Python-based hospital management system for scheduling patient-doctor appointm
 - Datetime for scheduling
 
 ## How to Run
-1. Clone repository: `git clone https://github.com/your-username/medical-appointment-scheduler.git`
+1. Clone the repository
 2. Run: `python medical_scheduler.py`
 
 ## Project Structure
